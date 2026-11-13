@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying at Zhejiang University, majoring in CS.
-- 😄 I'm focusing on frontend development, especially on graphics and data visualization.
-- 🌱 I’m currently learning WebGL & Graphics.
-- 📫 Email: zhaoxiaodong@zju.edu.cn
-- 💬 Wechat: zhaoxiaodong0902
-
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=brickmaker&show_icons=true&theme=radical)
 
 
